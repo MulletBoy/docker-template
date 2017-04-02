@@ -4,7 +4,7 @@
   <Date>2017-04-02</Date>
   <WebUI></WebUI>
   <Description>
-    Terraria Server
+    Docker container to run a Terraria Server with tShock.
   </Description>
   <Overview>
    Docker container to run a Terraria Server with tShock. 
@@ -43,6 +43,6 @@
     </Volume>
   </Data>
   <Banner></Banner>
-  <Icon></Icon>
+  <Icon>https://github.com/MulletBoy/terraria/blob/master/Terraria_icon.jpg</Icon>
   <ExtraParams></ExtraParams>
 </Containers>
