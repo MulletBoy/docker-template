@@ -10,10 +10,9 @@
    Docker container to run a Terraria Server with tShock. 
   </Overview>
   <Support></Support>
-  <Registry></Registry>
+  <Registry>https://hub.docker.com/r/mulletboy/terraria</Registry>
   <GitHub>https://github.com/MulletBoy/terraria</GitHub>
   <Repository>mulletboy/terraria</Repository>
-  <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Networking>
     <Mode>bridge</Mode>
@@ -43,6 +42,6 @@
     </Volume>
   </Data>
   <Banner></Banner>
-  <Icon>https://github.com/MulletBoy/terraria/blob/master/Terraria_icon.jpg</Icon>
+  <Icon>https://raw.githubusercontent.com/MulletBoy/terraria/master/Terraria_icon.jpg</Icon>
   <ExtraParams></ExtraParams>
 </Containers>
